@@ -4,7 +4,7 @@
     <extension point="xbmc.addon.repository" name="Webshare Repository">
         <info>https://patrik981202.github.io/WBPKDV/addons.xml</info>
         <checksum>https://patrik981202.github.io/WBPKDV/addons.xml.md5</checksum>
-        <datadir>https://patrik981202.github.io/WBPKDV/zips/</datadir>
+        <datadir>https://patrik981202.github.io/WBPKDV/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary lang="en">Webshare repository for Kodi</summary>
