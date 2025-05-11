@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.websharekodi" name="Webshare Repository" version="1.0.1" provider-name="ChatGPT">
+<addon id="repository.websharekodi" name="Webshare Repository" version="1.0.1" provider-name="Patrik02129818">
     <extension point="xbmc.addon.repository" name="Webshare Repository">
         <info>https://patrik981202.github.io/WBPKDV/addons.xml</info>
         <checksum>https://patrik981202.github.io/WBPKDV/addons.xml.md5</checksum>
