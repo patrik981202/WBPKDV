@@ -1,0 +1,12 @@
+<addons>
+<addon id="plugin.video.websharekodi" name="Webshare Kodi Plugin" version="1.0.1" provider-name="patrik981202">
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Webshare Kodi Plugin</summary>
+        <description lang="en">Official Webshare plugin for Kodi.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+</addons>
